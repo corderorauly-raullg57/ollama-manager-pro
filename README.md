@@ -302,4 +302,4 @@ No, es una aproximación. Usa **Medir velocidad** para conocer la real en tu equ
 
 ## Licencia
 
-Indica aquí la licencia de tu proyecto (por ejemplo, MIT). Los modelos descargados tienen sus propias licencias.
+MIT. Consulta el archivo LICENSE. Los modelos descargados tienen sus propias licencias.
