@@ -1,0 +1,3 @@
+# Mantener finales de linea de Windows en el .bat (cmd.exe los necesita)
+*.bat text eol=crlf
+*.md text eol=lf
